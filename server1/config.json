@@ -1,5 +1,4 @@
 {
   "name": "Server 1",
-  "playlist": "http://athena.dyndns.biz/get.php?username=cicciofro&password=sasy&type=m3u_plus&output=m3u8",
-  "epg": "http://athena.dyndns.biz/xmltv.php?username=cicciofro&password=sasy"
+  "server": "http://athena.dyndns.biz:80"
 }

@@ -1,4 +1,4 @@
 {
   "name": "Server 1",
-  "server": "http://athena.dyndns.biz/get.php?username=zioluigifirenze&password=sasy&type=m3u_plus"
+  "server": "http://athena.dyndns.biz:80"
 }
